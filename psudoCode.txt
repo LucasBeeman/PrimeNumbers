@@ -1,0 +1,7 @@
+take a number as a user input
+check if the string is "exit"
+start a FOR LOOP:
+	if a number is prime add it to the prime vector
+	if a number is a perfect number, add it to the perfect vector
+	display the contents of each vector
+	ask the user if they want to try again
